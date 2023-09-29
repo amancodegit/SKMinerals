@@ -1047,7 +1047,7 @@ section.testimonials:after {
   position: relative;
   z-index: 2;
   box-shadow: 0px 2px 3px #462d2d;
-  height: 220px;
+  height: 240px;
 }
 
 .testimonials .item:hover {
